@@ -28,7 +28,7 @@ try:
         os.system(f"git init")
         with open(os.path.join(projectPath, "README.md"), "w") as readme:
             default = f"""# {projectName}
-### Credits
+## Credits
 Project initialized by Make. For more information, please visit https://github.com/et-sollertis-animi/Make"""
             readme.write(default)
         os.system("code .")
