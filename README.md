@@ -2,7 +2,7 @@
 Project Initialization Automation
 
 ## Overview
-Problem: The proccess for creating projects is tedious and can be automated.
+Problem: The proccess for creating projects is tedious and can be automated.\
 The process:
 - User enters command to execute Make
 - Make takes in the parameters with execption and edge-case handling
