@@ -2,7 +2,7 @@ import sys
 import os
 
 ARGUMENTS = sys.argv
-PROJECTDIRECTORY = r"C:\Users\rngup\OneDrive\Documents\Programming"
+PROJECTDIRECTORY = r""
 del ARGUMENTS[0]
 
 def createFile(filename):
