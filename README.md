@@ -5,7 +5,7 @@ Project Initialization Automation
 Problem: The proccess for creating projects is tedious and can be automated.\
 The process:
 - User enters command to execute Make
-- Make takes in the parameters with execption and edge-case handling
+- Make takes in the parameters with exception and edge-case handling
 - Make creates the nessesary files and folders
 - Make opens ```README.md``` and writes the default text
 - Make initializes git and opens Visual Studio Code
